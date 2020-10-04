@@ -109,10 +109,9 @@ nav{
 /* Title Image */
 
 .title-image {
-  width: 60%;
+  width: 100%;
   
-  position: absolute;
-  right: 30%;
+  float: right;
 }
 
 /* Features Section */
